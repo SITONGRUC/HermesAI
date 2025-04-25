@@ -19,9 +19,9 @@ HermesAI aims to transform every communicator into a composed, confident, and ef
 
 ## Project Materials
 
-- 📄 [Project Code](#) *(https://github.com/SITONGRUC/HermesAI/tree/main/project_script)*
+- 📄 [Project Code](https://github.com/SITONGRUC/HermesAI/tree/main/project_script)
 - 📄 [Streaming Sentiment Analysis Whitepaper (PDF)](https://github.com/SITONGRUC/HermesAI/blob/main/flier.pdf)
-- 📚 [Relevant Articles and Resources](#) *(insert links if available)*
+
 
 ---
 
