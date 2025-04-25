@@ -13,8 +13,6 @@ The system features a **real-time streaming sentiment analysis pipeline** that d
 
 HermesAI aims to transform every communicator into a composed, confident, and effective participant — enabling individuals and teams to handle objections, customer pain points, and high-stress conversations with precision.
 
-> **This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota.**
-
 ---
 
 ## Project Materials
@@ -42,3 +40,5 @@ HermesAI aims to transform every communicator into a composed, confident, and ef
 - Sitong Li
 - Bhargavi Pissay
 - Dharmpalsinh Jhala
+
+> **This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota.**
