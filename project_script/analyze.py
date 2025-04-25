@@ -1,7 +1,7 @@
 import json
 from openai import OpenAI
 import os
-api_key = 'insert your here'
+api_key = os.getenv("CHAT_GPT_KEY")
 
 def analyze(message, api_key, model="gpt-4o-mini", temperature=0):
     system_message = """
