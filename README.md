@@ -41,4 +41,49 @@ HermesAI aims to transform every communicator into a composed, confident, and ef
 - Bhargavi Pissay
 - Dharmpalsinh Jhala
 
+---
+
+## 🚀 How to Set Up and Run
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/SITONGRUC/HermesAI.git
+cd HermesAI
+```
+
+### 2. Open in VS Code
+- Open the `HermesAI/project_script` project folder using Visual Studio Code (VS Code).
+
+### 3. Install Dependencies
+- Create a virtual environment (optional but recommended):
+  ```bash
+  python -m venv venv
+  source venv/bin/activate  # For Mac/Linux
+  .\venv\Scripts\activate    # For Windows
+  ```
+- Install required packages:
+  ```bash
+  pip install -r requirements.txt
+  ```
+
+### 4. Add Your OpenAI API Key
+- Create a `.env` file in the root folder and add:
+  ```
+  CHAT_GPT_KEY=your_openai_api_key_here
+  ```
+
+### 5. Run the Application
+- In the terminal inside VS Code, run:
+  ```bash
+  streamlit run app.py
+  ```
+
+### 6. Access the App
+- After running the command, Streamlit will provide a local URL (e.g., `http://localhost:8501`) — open it in your browser.
+
+
+---
+
+
+
 > **This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota.**
